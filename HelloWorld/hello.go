@@ -1,4 +1,4 @@
-package Go_learn_with_tests
+package HelloWorld
 
 func Hello(name string) string {
 	return "Hello " + name
